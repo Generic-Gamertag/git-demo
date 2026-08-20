@@ -24,4 +24,4 @@
 
 # 7.  
 
-![](media/image1.png){width="6.886384514435695in" height="2.8854166666666665in"}
+![kuva](g.png)
