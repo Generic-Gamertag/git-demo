@@ -1,6 +1,6 @@
 # 1.  
 
-<p>Versionhallinnalla pidetään kirjaa tiedostojen ja koodin muutoksista,</p>
+<p>Versionhallinnalla pidetään kirjaa tiedostojen ja koodin muutoksista.</p>
 
 # 2.  
 
